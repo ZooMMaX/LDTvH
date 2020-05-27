@@ -1,6 +1,7 @@
 # Lite Data Transfer via HTTP
 
-Lite Data Transfer via HTTP (LDTvH)
+Copyright 2020 ZooMMaX
+Licensed under the Apache License, Version 2.0
 
 **Lite Data Transfer via HTTP (LDTvH)**
 Open Source проект, цель которого ввести в использование текстовый формат передачи данных, отличающийся от JSON тем, что использует меньшее количество символов и как следствие экономит сетевой трафик.
