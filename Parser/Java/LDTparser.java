@@ -1,3 +1,7 @@
+/*Copyrigh 2020 ZooMMaX
+Licensed under the Apache License, Version 2.0*/
+
+
 package com.gitlab.ZooMMaX;
 
 public class LDTparser {
